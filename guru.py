@@ -162,8 +162,6 @@ class GuruWindow(QMainWindow):
             "Soal berhasil ditambahkan!"
         )
 
-        self.reset_form()  # Mengosongkan kembali form input
-
     # LIHAT SOAL
     def lihat_soal(self):
         from lihat_soal_guru import LihatSoalGuru
