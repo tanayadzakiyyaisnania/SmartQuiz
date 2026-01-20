@@ -1,6 +1,6 @@
 ## Aplikasi SmartQuiz
 SmartQuiz adalah aplikasi kuis edukatif berbasis desktop yang dirancang untuk membantu meningkatkan minat belajar anak melalui kuis interaktif dengan pendampingan. Aplikasi ini menyediakan mode siswa untuk mengerjakan kuis dan mode guru (pendamping) untuk membuat serta mengelola soal.
-## Fitur Utama
+## Fitur Aplikasi
 - Mode Siswa untuk mengerjakan kuis
 - Mode Guru (Pendamping) untuk membuat dan mengelola soal
 - Pilihan kategori kuis:
