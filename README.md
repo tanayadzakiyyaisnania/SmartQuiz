@@ -14,7 +14,7 @@ SmartQuiz adalah aplikasi kuis edukatif berbasis desktop yang dirancang untuk me
 - Penyimpanan riwayat hasil kuis
 - Aplikasi bersifat single user
 ## Cara Menjalankan Aplikasi (Source Code)
-1. Unduh source code aplikasi SmartQuiz.
+1. Unduh source code zip aplikasi SmartQuiz.
 2. Ekstrak file project ke dalam satu folder.
 3. Pastikan library PySide6 sudah terinstal.
 4. Buka aplikasi Visual Studio Code
