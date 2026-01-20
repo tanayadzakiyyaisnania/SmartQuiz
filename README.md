@@ -26,5 +26,6 @@ SmartQuiz adalah aplikasi kuis edukatif berbasis desktop yang dirancang untuk me
 - Mode Siswa: Memilih kategori kuis dan mengerjakan soal.
 - Mode Guru: Membuat, melihat, dan menghapus soal kuis.
 - Riwayat: Melihat dan menghapus hasil kuis yang telah dikerjakan.
+- Keluar: Keluar Aplikasi
 ## Catatan
 Aplikasi ini dibuat untuk keperluan pembelajaran dan tugas akhir praktikum pemrograman visual.
